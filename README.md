@@ -1,96 +1,79 @@
-<h1 align="center">👊 Hey, I'm Anshumansingh Rajput</h1>
-<p align="center">
-  <img src="https://media.tenor.com/V9A8d6QpoEwAAAAC/saitama-one-punch-man.gif" width="220" />
-</p>
+<!-- Futuristic Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=FFCC00&center=true&vCenter=true&width=800&height=80&lines=⚡+Anshumansingh+Rajput;🚀+Java+Full+Stack+Developer;☁️+Cloud+%7C+Microservices+%7C+System+Design;👊+Code+So+Strong+It+Feels+Like+One+Punch" />
+</h1>
 
 <p align="center">
-  <b>⚡ Java Full Stack Developer | 7+ Years of Experience | Surat, India ⚡</b>  
-</p>
-
----
-
-<!-- Manga Punch Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-</p>
-
-### 🧑‍💻 About Me
-- 🥋 Writing clean & scalable code — like Saitama’s single punch.  
-- 🌱 Currently learning **Microservices Patterns (Saga, CQRS, Event Sourcing)**  
-- ☁️ Deploying on **AWS & Azure with Kubernetes & Docker**  
-- 💡 Exploring **System Design, Concurrency, Performance Tuning**  
-- 📧 Reach me at: [your-email@example.com](mailto:your-email@example.com)  
-
----
-
-<!-- Manga Punch Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-</p>
-
-### 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-FFCC00?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/JrpwQyC9FpgFOsMMf5/giphy.gif" width="600"/>
 </p>
 
 ---
 
-<!-- Manga Punch Divider -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
 </p>
 
-### 🛠️ Tech Stack  
+## 👨‍💻 About Me
+
+- 👊 Code so clean & scalable, like **Saitama’s single punch**  
+- 🌱 Exploring **CQRS | Saga | Event Sourcing | Advanced Concurrency**  
+- ☁️ Hands-on with **AWS | Azure | Kubernetes | Docker | Jenkins**  
+- ⚡ Designing systems with **performance, observability & resilience** in mind  
+- 🧠 Always learning, always leveling up — like a futuristic hero  
+
+---
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
+</p>
+
+## 🌌 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,html,css,tailwind,aws,azure,kubernetes,docker,jenkins,mysql,postgresql,redis,kafka,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,html,css,tailwind,aws,azure,kubernetes,docker,jenkins,mysql,postgresql,redis,kafka,git,github&theme=dark" />
 </p>
 
 ---
 
-<!-- Manga Punch Divider -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
 </p>
 
-### 📊 GitHub Stats  
+## 📊 Futuristic GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FFCC00&title_color=FFCC00" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=anshuman881&theme=tokyonight&hide_border=true&ring=FFCC00&fire=FFCC00&currStreakLabel=FFCC00" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FFCC00&title_color=FFCC00&bg_color=00000000" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=anshuman881&theme=tokyonight&hide_border=true&ring=FFCC00&fire=FF0000&currStreakLabel=FFCC00" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshuman881&layout=compact&theme=tokyonight&hide_border=true&title_color=FFCC00" height="160"/>
-</p>
-
----
-
-<!-- Manga Punch Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-</p>
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuman881&theme=onedark&no-frame=true&title=Commit,Stars,Followers,Repositories,PullRequest&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshuman881&layout=compact&theme=tokyonight&hide_border=true&title_color=FFCC00&bg_color=00000000" height="180"/>
 </p>
 
 ---
 
-<!-- Manga Punch Divider -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
 </p>
 
-### 🐍 Contribution Snake  
+## 🏆 GitHub Power Levels
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman881&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+</p>
+
+---
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
+</p>
+
+## 🐍 Evolving Contributions
 
 <p align="center">
   <img src="https://github.com/anshuman881/anshuman881/blob/output/github-contribution-grid-snake.svg" />
@@ -98,17 +81,31 @@
 
 ---
 
-<!-- Manga Punch Divider -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
 </p>
 
-### ⚡ Fun Vibe  
+## ⚡ Futuristic Activity Graph
 
 <p align="center">
-  <img src="https://media.tenor.com/IjqzjBux4OQAAAAC/ok-one-punch-man.gif" width="250"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman881&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFCC00&line=FF0000&point=FFFFFF" />
 </p>
 
 ---
 
-⭐️ *“Like Saitama’s punch — my code is simple, clean, and powerful.”*
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/rZl5K8d.gif" width="100%" height="8"/>
+</p>
+
+## 🎨 Futuristic Vibe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XbMVpgSQZWfvy/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="300"/>
+</p>
+
+---
+
+⭐️ *“100 years from now, clean code will still feel like a single punch.”*
