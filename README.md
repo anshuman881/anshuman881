@@ -1,44 +1,50 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
-  Hi, I'm Anshumansingh Rajput
-</h1>
+<h1 align="center">👊 Hey, I'm Anshumansingh Rajput</h1>
+<p align="center">
+  <img src="https://media.tenor.com/V9A8d6QpoEwAAAAC/saitama-one-punch-man.gif" width="220" />
+</p>
 
 <p align="center">
-  <b>🚀 Java Full Stack Developer</b>
+  <b>⚡ Java Full Stack Developer | 7+ Years of Experience | Surat, India ⚡</b>  
 </p>
 
 ---
 
-<!-- Typing Effect -->
+<!-- Manga Punch Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Cloud+(AWS+%7C+Azure)+%7C+DevOps;System+Design+%7C+Performance+Tuning;Always+Learning+New+Things" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 </p>
 
----
-
-### 👨‍💻 About Me  
-
-- 💻 Full-stack development with **Java, Spring Boot, React.js, Angular**  
-- ☁️ Cloud deployments on **AWS & Azure** with Kubernetes + Docker  
-- 🔭 Exploring **Microservices Patterns (Saga, CQRS, Event Sourcing)**  
-- ⚡ Interested in **Concurrency, System Design, and Security**  
-- 📧 Reach me: [your-email@example.com](mailto:your-email@example.com)  
+### 🧑‍💻 About Me
+- 🥋 Writing clean & scalable code — like Saitama’s single punch.  
+- 🌱 Currently learning **Microservices Patterns (Saga, CQRS, Event Sourcing)**  
+- ☁️ Deploying on **AWS & Azure with Kubernetes & Docker**  
+- 💡 Exploring **System Design, Concurrency, Performance Tuning**  
+- 📧 Reach me at: [your-email@example.com](mailto:your-email@example.com)  
 
 ---
+
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
 
 ### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FFCC00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
 
 ### 🛠️ Tech Stack  
 
@@ -48,41 +54,61 @@
 
 ---
 
-### 📊 GitHub Analytics  
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
+
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuman881&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshuman881t&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FFCC00&title_color=FFCC00" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=anshuman881&theme=tokyonight&hide_border=true&ring=FFCC00&fire=FFCC00&currStreakLabel=FFCC00" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman881t&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshuman881&layout=compact&theme=tokyonight&hide_border=true&title_color=FFCC00" height="160"/>
 </p>
 
 ---
+
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
 
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuman881t&theme=flat&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman881&theme=onedark&no-frame=true&title=Commit,Stars,Followers,Repositories,PullRequest&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation  
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
+
+### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/anshuman881t/anshuman881t/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/anshuman881/anshuman881/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph  
+<!-- Manga Punch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
+
+### ⚡ Fun Vibe  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman881t&theme=github-compact&hide_border=true" />
+  <img src="https://media.tenor.com/IjqzjBux4OQAAAAC/ok-one-punch-man.gif" width="250"/>
 </p>
 
 ---
 
-⭐️ *“Code should be clean, minimal, and impactful — like great design.”*
+⭐️ *“Like Saitama’s punch — my code is simple, clean, and powerful.”*
