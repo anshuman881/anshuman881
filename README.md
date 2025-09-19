@@ -15,12 +15,9 @@
 ---
 
 ### ⚡ Tech Stack
-- **Backend:** Java (8/17/21), Spring Boot, Microservices, Kafka, REST API, Hibernate, Redis  
-- **Frontend:** React.js, Angular, HTML, CSS, Tailwind, Bootstrap  
-- **DevOps & Cloud:** AWS, Azure, Kubernetes, Docker, Jenkins, GitHub Actions  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,html,css,tailwind,aws,azure,kubernetes,docker,jenkins,mysql,postgresql,redis,kafka,git,github" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center"> 
@@ -30,8 +27,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman881&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
 </p>
-
----
 
 ### 🌍 Connect with Me
 <p align="center"> 
