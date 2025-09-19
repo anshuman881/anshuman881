@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>🚀 Java Full Stack Developer | 7+ Years Experience | Surat, India</b>
+  <b>🚀 Java Full Stack Developer</b>
 </p>
 
 ---
