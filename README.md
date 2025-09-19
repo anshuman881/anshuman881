@@ -24,8 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> 
-  <img src="https://readme-streak-stats.herokuapp.com/?user=anshuman881&theme=tokyonight&hide_border=true" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p> 
 
 <p align="center"> 
@@ -36,15 +35,12 @@
 
 ### 🌍 Connect with Me
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/anshuman-singh-rajput/" target="_blank">
+  <a href="https://www.linkedin.com/in/anshumanrajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a> 
-  <a href="mailto:anshuman881@gmail.com">
+  <a href="mailto:rajputanshuman95@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://github.com/anshuman881">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a> 
+  </a>
 </p>
 
 ---
