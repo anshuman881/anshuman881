@@ -51,12 +51,12 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumansingh-rajput&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshumansingh-rajput&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshuman881&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshuman881t&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansingh-rajput&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman881t&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumansingh-rajput&theme=flat&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman881t&theme=flat&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 🐍 Contribution Snake Animation  
 
 <p align="center">
-  <img src="https://github.com/anshumansingh-rajput/anshumansingh-rajput/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/anshuman881t/anshuman881t/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 📈 GitHub Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumansingh-rajput&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman881t&theme=github-compact&hide_border=true" />
 </p>
 
 ---
