@@ -19,15 +19,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,html,css,tailwind,aws,azure,kubernetes,docker,jenkins,mysql,postgresql,redis,kafka,git,github" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuman881&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p> 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman881&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
-</p>
-
 ### 🌍 Connect with Me
 <p align="center"> 
   <a href="https://www.linkedin.com/in/anshumanrajput" target="_blank">
