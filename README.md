@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+Native+%7C+Kafka+%7C+Kubernetes;Distributed+Systems+%7C+System+Design;Building+Scalable+Platforms" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 # 👨‍💻 About Me
 
 💻 **Senior Full Stack Developer with 7+ years of experience**
@@ -22,40 +16,6 @@
 - 🎯 Interested in **System Design, DSA, and Architecture patterns**
 
 ---
-
-# 🚀 Featured Projects
-
-### 🔹 Cognivex – AI Observability Dashboard
-
-An observability platform inspired by Dynatrace.
-
-**Features**
-
-- 📊 Live system metrics  
-- 🧠 AI insights for application performance  
-- 📈 JVM monitoring  
-- 🔍 Log aggregation  
-- ⚡ Performance visualization  
-
-**Tech Stack**
-
-Java • Spring Boot • Next.js • Docker • Prometheus
-
----
-
-### 🔹 Custom Java Observability Agent
-
-A lightweight monitoring agent similar to Dynatrace OneAgent.
-
-Features:
-
-- JVM metrics collection
-- Thread dump analysis
-- Native memory monitoring
-- Application performance tracking
-
----
-
 ### 🔹 Microservices Architecture Playground
 
 A platform implementing advanced distributed system patterns:
@@ -76,34 +36,6 @@ A platform implementing advanced distributed system patterns:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 # 🧠 Currently Exploring
 
 - AI powered developer platforms
@@ -111,14 +43,6 @@ A platform implementing advanced distributed system patterns:
 - LLM integrations with backend
 - Cloud native microservices
 - Performance optimization in distributed systems
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
