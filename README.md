@@ -61,11 +61,3 @@ A platform implementing advanced distributed system patterns:
 </p>
 
 ---
-
-# 💡 Philosophy
-
-> **"Code today. Design tomorrow. Scale forever."**
-
----
-
-⭐ If you like my work, consider **starring my repositories**!
